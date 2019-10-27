@@ -4,9 +4,9 @@
 
 	class parent_class
 	{
-		private $var1 = "urme(private) is a cute girls";
-		public $var2 = "urme(public) hates adil for adil's stupidness";
-		protected $var3 ="tarek(protected) loves urme bt urme loves adil";
+		private $var1 = "alex(private) is a cute girls";
+		public $var2 = "bob(public) hates adil for adil's stupidness";
+		protected $var3 ="rahim(protected) loves alex bt alex loves adil";
 
 		public function message_1()
 		{
@@ -48,5 +48,5 @@
 	$objectTest->message_3();
 
 
-	
+
 ?>
